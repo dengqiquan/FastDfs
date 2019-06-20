@@ -1,0 +1,5 @@
+server:
+  port: 8090
+
+IMAGE_SERVER_BASE_URL: http://app-img-view.uparking.com/
+MAX_FILE_SIZE: 1MB
